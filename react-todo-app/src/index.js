@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import "./styles.scss";
 
 import TodoApp from "./components/TodoApp";
 import Navbar from "./components/Navbar";
